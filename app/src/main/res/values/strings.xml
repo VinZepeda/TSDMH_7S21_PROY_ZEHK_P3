@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TSDMH_7S21_PROY_ZEHK_P3</string>
+    <string name="btnsal">saludar</string>
+    <string name="txtsal">quiero pasar profeeeeeeee</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre">nombre: Zepeda Hernandez Karen Viridiana</string>
+    <string name="grupo">grupo:7s21</string>
+    <string name="materia">materia:topicos selectos  de dispositivos moviles hibridos</string>
+
+</resources>
